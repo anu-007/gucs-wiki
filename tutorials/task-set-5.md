@@ -30,3 +30,4 @@
 |24.|Converting a ASP.NET Core App to a PWA|@ashwini|:hourglass:|
 |25.|Introduction to Angular 4|@sourya|:hourglass:|
 |26.|Web Components|||
+|27.|JavaScript Design Patterns|@anu-007|:hourglass:|
